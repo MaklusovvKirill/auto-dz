@@ -1,0 +1,1143 @@
+2025-10-02 at 11:07:35 | INFO | Страница загружена
+2025-10-02 at 11:07:35 | INFO | Данные для входа введены
+2025-10-02 at 11:07:35 | INFO | Кнопка входа нажата
+2025-10-02 at 11:07:40 | SUCCESS | Вход выполнен! Текущий URL: https://journal.top-academy.ru/ru/main/dashboard/page/index
+2025-10-02 at 11:11:22 | INFO | Страница загружена
+2025-10-02 at 11:11:22 | INFO | Данные для входа введены
+2025-10-02 at 11:11:22 | INFO | Кнопка входа нажата
+2025-10-02 at 11:11:27 | SUCCESS | Вход выполнен! Текущий URL: https://journal.top-academy.ru/ru/main/dashboard/page/index
+2025-10-02 at 11:30:07 | INFO | Страница загружена
+2025-10-02 at 11:30:21 | INFO | Страница загружена
+2025-10-02 at 11:30:21 | INFO | Данные для входа введены
+2025-10-02 at 11:30:21 | INFO | Кнопка входа нажата
+2025-10-02 at 11:30:26 | SUCCESS | Вход выполнен! Текущий URL: https://journal.top-academy.ru/ru/main/dashboard/page/index
+2025-10-02 at 11:31:15 | INFO | Страница загружена
+2025-10-02 at 11:31:16 | INFO | Данные для входа введены
+2025-10-02 at 11:31:16 | INFO | Кнопка входа нажата
+2025-10-02 at 11:31:21 | SUCCESS | Вход выполнен! Текущий URL: https://journal.top-academy.ru/ru/main/dashboard/page/index
+2025-10-02 at 11:52:28 | INFO | Страница загружена
+2025-10-02 at 11:52:28 | INFO | Данные для входа введены
+2025-10-02 at 11:52:28 | INFO | Кнопка входа нажата
+2025-10-02 at 11:52:33 | SUCCESS | Вход выполнен! Текущий URL: https://journal.top-academy.ru/ru/main/dashboard/page/index
+2025-10-02 at 12:40:39 | INFO | Страница загружена
+2025-10-02 at 12:40:39 | INFO | Данные для входа введены
+2025-10-02 at 12:40:39 | INFO | Кнопка входа нажата
+2025-10-02 at 12:40:44 | SUCCESS | Вход выполнен! Текущий URL: https://journal.top-academy.ru/ru/main/dashboard/page/index
+2025-10-02 at 12:54:17 | INFO | Страница загружена
+2025-10-02 at 12:54:17 | INFO | Данные для входа введены
+2025-10-02 at 12:54:17 | INFO | Кнопка входа нажата
+2025-10-02 at 12:54:22 | SUCCESS | Вход выполнен! Текущий URL: https://journal.top-academy.ru/ru/main/dashboard/page/index
+2025-10-02 at 13:00:47 | INFO | Страница загружена
+2025-10-02 at 13:00:47 | INFO | Данные для входа введены
+2025-10-02 at 13:00:47 | INFO | Кнопка входа нажата
+2025-10-02 at 13:00:52 | SUCCESS | Вход выполнен! Текущий URL: https://journal.top-academy.ru/ru/main/dashboard/page/index
+2025-10-02 at 13:06:30 | INFO | Страница загружена
+2025-10-02 at 13:06:30 | INFO | Данные для входа введены
+2025-10-02 at 13:06:30 | INFO | Кнопка входа нажата
+2025-10-02 at 13:06:35 | SUCCESS | Вход выполнен! Текущий URL: https://journal.top-academy.ru/ru/main/dashboard/page/index
+2025-10-02 at 13:06:36 | INFO | Страница с домашними заданиями загружена
+2025-10-02 at 13:06:36 | INFO | Найдено элементов с домашними заданиями: 24
+2025-10-02 at 13:06:36 | INFO | Найдена кнопка загрузки для: Разработка программных модулей
+2025-10-02 at 13:06:54 | INFO | Клик на кнопку загрузки для: Разработка программных модулей
+2025-10-02 at 13:06:57 | SUCCESS | Готово к загрузке файла для: Разработка программных модулей
+2025-10-02 at 13:06:57 | INFO | Найдена кнопка загрузки для: Разработка программных модулей
+2025-10-02 at 13:07:27 | ERROR | Ошибка при обработке задания 2: ElementHandle.hover: Timeout 30000ms exceeded.
+Call log:
+  - attempting hover action
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <span role="textbox" contenteditable="" class="textarea text-homework-field" data-placeholder="Здесь Вы можете написать ваш текстовый ответ"></span> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting 20ms
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 100ms
+    14 × waiting for element to be visible and stable
+       - element is visible and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+     - retrying hover action
+       - waiting 500ms
+       - waiting for element to be visible and stable
+       - element is visible and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <span role="textbox" contenteditable="" class="textarea text-homework-field" data-placeholder="Здесь Вы можете написать ваш текстовый ответ"></span> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+     - retrying hover action
+       - waiting 500ms
+       - waiting for element to be visible and stable
+       - element is visible and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+     - retrying hover action
+       - waiting 500ms
+       - waiting for element to be visible and stable
+       - element is visible and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+     - retrying hover action
+       - waiting 500ms
+
+2025-10-02 at 13:07:27 | INFO | Найдена кнопка загрузки для: Информационные технологии
+2025-10-02 at 13:07:57 | ERROR | Ошибка при обработке задания 3: ElementHandle.hover: Timeout 30000ms exceeded.
+Call log:
+  - attempting hover action
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <span role="textbox" contenteditable="" class="textarea text-homework-field" data-placeholder="Здесь Вы можете написать ваш текстовый ответ"></span> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting 20ms
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 100ms
+    14 × waiting for element to be visible and stable
+       - element is visible and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+     - retrying hover action
+       - waiting 500ms
+       - waiting for element to be visible and stable
+       - element is visible and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <span role="textbox" contenteditable="" class="textarea text-homework-field" data-placeholder="Здесь Вы можете написать ваш текстовый ответ"></span> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+     - retrying hover action
+       - waiting 500ms
+       - waiting for element to be visible and stable
+       - element is visible and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+     - retrying hover action
+       - waiting 500ms
+       - waiting for element to be visible and stable
+       - element is visible and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+     - retrying hover action
+       - waiting 500ms
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting 500ms
+
+2025-10-02 at 13:07:57 | INFO | Найдена кнопка загрузки для: Информационные технологии
+2025-10-02 at 13:08:27 | ERROR | Ошибка при обработке задания 4: ElementHandle.hover: Timeout 30000ms exceeded.
+Call log:
+  - attempting hover action
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> intercepts pointer events
+    - retrying hover action
+    - waiting 20ms
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> intercepts pointer events
+    - retrying hover action
+      - waiting 100ms
+    57 × waiting for element to be visible and stable
+       - element is visible and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> intercepts pointer events
+     - retrying hover action
+       - waiting 500ms
+
+2025-10-02 at 13:08:27 | INFO | Найдена кнопка загрузки для: Архитектура аппаратных средств
+2025-10-02 at 13:08:57 | ERROR | Ошибка при обработке задания 5: ElementHandle.hover: Timeout 30000ms exceeded.
+Call log:
+  - attempting hover action
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> intercepts pointer events
+    - retrying hover action
+    - waiting 20ms
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> intercepts pointer events
+    - retrying hover action
+      - waiting 100ms
+    56 × waiting for element to be visible and stable
+       - element is visible and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> intercepts pointer events
+     - retrying hover action
+       - waiting 500ms
+    - waiting for element to be visible and stable
+
+2025-10-02 at 13:08:57 | INFO | Найдена кнопка загрузки для: Компьютерные сети
+2025-10-02 at 13:09:27 | ERROR | Ошибка при обработке задания 6: ElementHandle.hover: Timeout 30000ms exceeded.
+Call log:
+  - attempting hover action
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <span role="textbox" contenteditable="" class="textarea text-homework-field" data-placeholder="Здесь Вы можете написать ваш текстовый ответ"></span> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting 20ms
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 100ms
+    14 × waiting for element to be visible and stable
+       - element is visible and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+     - retrying hover action
+       - waiting 500ms
+       - waiting for element to be visible and stable
+       - element is visible and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <span role="textbox" contenteditable="" class="textarea text-homework-field" data-placeholder="Здесь Вы можете написать ваш текстовый ответ"></span> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+     - retrying hover action
+       - waiting 500ms
+       - waiting for element to be visible and stable
+       - element is visible and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+     - retrying hover action
+       - waiting 500ms
+       - waiting for element to be visible and stable
+       - element is visible and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+     - retrying hover action
+       - waiting 500ms
+
+2025-10-02 at 13:09:27 | INFO | Найдена кнопка загрузки для: Информационные технологии
+2025-10-02 at 13:09:57 | ERROR | Ошибка при обработке задания 19: ElementHandle.hover: Timeout 30000ms exceeded.
+Call log:
+  - attempting hover action
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> intercepts pointer events
+    - retrying hover action
+    - waiting 20ms
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> intercepts pointer events
+    - retrying hover action
+      - waiting 100ms
+    56 × waiting for element to be visible and stable
+       - element is visible and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> intercepts pointer events
+     - retrying hover action
+       - waiting 500ms
+
+2025-10-02 at 13:09:57 | INFO | Найдена кнопка загрузки для: Информационные технологии
+2025-10-02 at 13:10:27 | ERROR | Ошибка при обработке задания 20: ElementHandle.hover: Timeout 30000ms exceeded.
+Call log:
+  - attempting hover action
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <span role="textbox" contenteditable="" class="textarea text-homework-field" data-placeholder="Здесь Вы можете написать ваш текстовый ответ"></span> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting 20ms
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 100ms
+    8 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 500ms
+      - waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <span role="textbox" contenteditable="" class="textarea text-homework-field" data-placeholder="Здесь Вы можете написать ваш текстовый ответ"></span> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 500ms
+      - waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 500ms
+      - waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 500ms
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting 500ms
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <span role="textbox" contenteditable="" class="textarea text-homework-field" data-placeholder="Здесь Вы можете написать ваш текстовый ответ"></span> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting 500ms
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting 500ms
+    - waiting for element to be visible and stable
+
+2025-10-02 at 13:10:27 | INFO | Найдена кнопка загрузки для: Архитектура аппаратных средств
+2025-10-02 at 13:10:57 | ERROR | Ошибка при обработке задания 21: ElementHandle.hover: Timeout 30000ms exceeded.
+Call log:
+  - attempting hover action
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <span role="textbox" contenteditable="" class="textarea text-homework-field" data-placeholder="Здесь Вы можете написать ваш текстовый ответ"></span> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting 20ms
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 100ms
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 500ms
+      - waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <span role="textbox" contenteditable="" class="textarea text-homework-field" data-placeholder="Здесь Вы можете написать ваш текстовый ответ"></span> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 500ms
+      - waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 500ms
+      - waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 500ms
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting 500ms
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <span role="textbox" contenteditable="" class="textarea text-homework-field" data-placeholder="Здесь Вы можете написать ваш текстовый ответ"></span> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting 500ms
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting 500ms
+
+2025-10-02 at 13:10:57 | INFO | Найдена кнопка загрузки для: Компьютерные сети
+2025-10-02 at 13:11:27 | ERROR | Ошибка при обработке задания 22: ElementHandle.hover: Timeout 30000ms exceeded.
+Call log:
+  - attempting hover action
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> intercepts pointer events
+    - retrying hover action
+    - waiting 20ms
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> intercepts pointer events
+    - retrying hover action
+      - waiting 100ms
+    11 × waiting for element to be visible and stable
+       - element is visible and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> intercepts pointer events
+     - retrying hover action
+       - waiting 500ms
+
+2025-10-02 at 13:11:27 | INFO | Найдена кнопка загрузки для: Компьютерные сети
+2025-10-02 at 13:11:57 | ERROR | Ошибка при обработке задания 23: ElementHandle.hover: Timeout 30000ms exceeded.
+Call log:
+  - attempting hover action
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> intercepts pointer events
+    - retrying hover action
+    - waiting 20ms
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> intercepts pointer events
+    - retrying hover action
+      - waiting 100ms
+    11 × waiting for element to be visible and stable
+       - element is visible and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> intercepts pointer events
+     - retrying hover action
+       - waiting 500ms
+
+2025-10-02 at 13:11:57 | INFO | Найдена кнопка загрузки для: Информационные технологии
+2025-10-02 at 13:12:27 | ERROR | Ошибка при обработке задания 24: ElementHandle.hover: Timeout 30000ms exceeded.
+Call log:
+  - attempting hover action
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <span role="textbox" contenteditable="" class="textarea text-homework-field" data-placeholder="Здесь Вы можете написать ваш текстовый ответ"></span> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting 20ms
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 100ms
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 500ms
+      - waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <span role="textbox" contenteditable="" class="textarea text-homework-field" data-placeholder="Здесь Вы можете написать ваш текстовый ответ"></span> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 500ms
+      - waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 500ms
+      - waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 500ms
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting 500ms
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <span role="textbox" contenteditable="" class="textarea text-homework-field" data-placeholder="Здесь Вы можете написать ваш текстовый ответ"></span> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting 500ms
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="content" _ngcontent-ipt-c12="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting 500ms
+
+2025-10-02 at 13:12:27 | INFO | Обработка домашних заданий завершена
+2025-10-02 at 13:15:02 | INFO | Страница загружена
+2025-10-02 at 13:15:02 | INFO | Данные для входа введены
+2025-10-02 at 13:15:03 | INFO | Кнопка входа нажата
+2025-10-02 at 13:15:08 | SUCCESS | Вход выполнен! Текущий URL: https://journal.top-academy.ru/ru/main/dashboard/page/index
+2025-10-02 at 13:15:09 | INFO | Страница с домашними заданиями загружена
+2025-10-02 at 13:15:09 | INFO | Найдено элементов с домашними заданиями: 24
+2025-10-02 at 13:15:09 | INFO | Найдена кнопка загрузки для: Разработка программных модулей
+2025-10-02 at 13:15:10 | INFO | Клик на кнопку загрузки для: Разработка программных модулей
+2025-10-02 at 13:15:13 | SUCCESS | Готово к загрузке файла для: Разработка программных модулей
+2025-10-02 at 13:15:13 | INFO | Найдена кнопка загрузки для: Разработка программных модулей
+2025-10-02 at 13:16:06 | ERROR | Ошибка при обработке задания 2: ElementHandle.click: Timeout 30000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    57 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+2025-10-02 at 13:16:06 | INFO | Найдена кнопка загрузки для: Информационные технологии
+2025-10-02 at 13:16:08 | INFO | Клик на кнопку загрузки для: Информационные технологии
+2025-10-02 at 13:16:11 | SUCCESS | Готово к загрузке файла для: Информационные технологии
+2025-10-02 at 13:16:11 | INFO | Найдена кнопка загрузки для: Информационные технологии
+2025-10-02 at 13:16:15 | ERROR | Ошибка при обработке задания 4: Page.wait_for_timeout: Target page, context or browser has been closed
+2025-10-02 at 13:16:15 | ERROR | Ошибка при обработке задания 5: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:16:15 | ERROR | Ошибка при обработке задания 6: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:16:15 | ERROR | Ошибка при обработке задания 7: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:16:15 | ERROR | Ошибка при обработке задания 8: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:16:15 | ERROR | Ошибка при обработке задания 9: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:16:15 | ERROR | Ошибка при обработке задания 10: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:16:15 | ERROR | Ошибка при обработке задания 11: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:16:15 | ERROR | Ошибка при обработке задания 12: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:16:15 | ERROR | Ошибка при обработке задания 13: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:16:15 | ERROR | Ошибка при обработке задания 14: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:16:15 | ERROR | Ошибка при обработке задания 15: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:16:15 | ERROR | Ошибка при обработке задания 16: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:16:15 | ERROR | Ошибка при обработке задания 17: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:16:15 | ERROR | Ошибка при обработке задания 18: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:16:15 | ERROR | Ошибка при обработке задания 19: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:16:15 | ERROR | Ошибка при обработке задания 20: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:16:15 | ERROR | Ошибка при обработке задания 21: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:16:15 | ERROR | Ошибка при обработке задания 22: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:16:15 | ERROR | Ошибка при обработке задания 23: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:16:15 | ERROR | Ошибка при обработке задания 24: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:16:15 | INFO | Обработка домашних заданий завершена
+2025-10-02 at 13:33:17 | INFO | Страница загружена
+2025-10-02 at 13:33:17 | INFO | Данные для входа введены
+2025-10-02 at 13:33:17 | INFO | Кнопка входа нажата
+2025-10-02 at 13:33:22 | SUCCESS | Вход выполнен! Текущий URL: https://journal.top-academy.ru/ru/main/dashboard/page/index
+2025-10-02 at 13:33:23 | INFO | Страница с домашними заданиями загружена
+2025-10-02 at 13:33:23 | INFO | Найдено элементов с домашними заданиями: 24
+2025-10-02 at 13:33:23 | INFO | Найдена кнопка загрузки для: Разработка программных модулей
+2025-10-02 at 13:33:54 | ERROR | Ошибка при обработке задания 1: ElementHandle.click: Timeout 30000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    57 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+2025-10-02 at 13:33:54 | INFO | Найдена кнопка загрузки для: Разработка программных модулей
+2025-10-02 at 13:33:56 | INFO | Клик на кнопку загрузки для: Разработка программных модулей
+2025-10-02 at 13:33:58 | ERROR | Ошибка при обработке задания 2: Page.wait_for_timeout: Target page, context or browser has been closed
+2025-10-02 at 13:33:58 | ERROR | Ошибка при обработке задания 3: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:33:58 | ERROR | Ошибка при обработке задания 4: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:33:58 | ERROR | Ошибка при обработке задания 5: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:33:58 | ERROR | Ошибка при обработке задания 6: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:33:58 | ERROR | Ошибка при обработке задания 7: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:33:58 | ERROR | Ошибка при обработке задания 8: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:33:58 | ERROR | Ошибка при обработке задания 9: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:33:58 | ERROR | Ошибка при обработке задания 10: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:33:58 | ERROR | Ошибка при обработке задания 11: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:33:58 | ERROR | Ошибка при обработке задания 12: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:33:58 | ERROR | Ошибка при обработке задания 13: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:33:58 | ERROR | Ошибка при обработке задания 14: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:33:58 | ERROR | Ошибка при обработке задания 15: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:33:58 | ERROR | Ошибка при обработке задания 16: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:33:58 | ERROR | Ошибка при обработке задания 17: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:33:58 | ERROR | Ошибка при обработке задания 18: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:33:58 | ERROR | Ошибка при обработке задания 19: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:33:58 | ERROR | Ошибка при обработке задания 20: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:33:58 | ERROR | Ошибка при обработке задания 21: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:33:58 | ERROR | Ошибка при обработке задания 22: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:33:58 | ERROR | Ошибка при обработке задания 23: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:33:58 | ERROR | Ошибка при обработке задания 24: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:33:58 | INFO | Обработка домашних заданий завершена
+2025-10-02 at 13:36:38 | INFO | Страница загружена
+2025-10-02 at 13:36:38 | INFO | Данные для входа введены
+2025-10-02 at 13:36:38 | INFO | Кнопка входа нажата
+2025-10-02 at 13:36:43 | SUCCESS | Вход выполнен! Текущий URL: https://journal.top-academy.ru/ru/main/dashboard/page/index
+2025-10-02 at 13:36:44 | INFO | Страница с домашними заданиями загружена
+2025-10-02 at 13:36:44 | INFO | Найдено элементов с домашними заданиями: 24
+2025-10-02 at 13:36:44 | INFO | Найдена кнопка загрузки для: Разработка программных модулей
+2025-10-02 at 13:36:45 | INFO | Клик на кнопку загрузки для: Разработка программных модулей
+2025-10-02 at 13:36:48 | SUCCESS | Готово к загрузке файла для: Разработка программных модулей
+2025-10-02 at 13:36:48 | INFO | Найдена кнопка загрузки для: Разработка программных модулей
+2025-10-02 at 13:39:14 | INFO | Страница загружена
+2025-10-02 at 13:39:14 | INFO | Данные для входа введены
+2025-10-02 at 13:39:14 | INFO | Кнопка входа нажата
+2025-10-02 at 13:39:19 | SUCCESS | Вход выполнен! Текущий URL: https://journal.top-academy.ru/ru/main/dashboard/page/index
+2025-10-02 at 13:39:20 | INFO | Страница с домашними заданиями загружена
+2025-10-02 at 13:39:20 | INFO | Найдено элементов с домашними заданиями: 24
+2025-10-02 at 13:39:20 | INFO | Найдена кнопка загрузки для: Разработка программных модулей
+2025-10-02 at 13:39:50 | ERROR | Ошибка при обработке задания 1: ElementHandle.click: Timeout 30000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    57 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+2025-10-02 at 13:39:50 | INFO | Найдена кнопка загрузки для: Разработка программных модулей
+2025-10-02 at 13:40:20 | ERROR | Ошибка при обработке задания 2: ElementHandle.click: Timeout 30000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    57 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+2025-10-02 at 13:40:20 | INFO | Найдена кнопка загрузки для: Информационные технологии
+2025-10-02 at 13:40:50 | ERROR | Ошибка при обработке задания 3: ElementHandle.click: Timeout 30000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    57 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+2025-10-02 at 13:40:50 | INFO | Найдена кнопка загрузки для: Информационные технологии
+2025-10-02 at 13:40:54 | ERROR | Ошибка при обработке задания 4: ElementHandle.click: Target page, context or browser has been closed
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    7 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 500ms
+
+2025-10-02 at 13:40:54 | ERROR | Ошибка при обработке задания 5: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:40:54 | ERROR | Ошибка при обработке задания 6: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:40:54 | ERROR | Ошибка при обработке задания 7: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:40:54 | ERROR | Ошибка при обработке задания 8: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:40:54 | ERROR | Ошибка при обработке задания 9: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:40:54 | ERROR | Ошибка при обработке задания 10: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:40:54 | ERROR | Ошибка при обработке задания 11: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:40:54 | ERROR | Ошибка при обработке задания 12: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:40:54 | ERROR | Ошибка при обработке задания 13: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:40:54 | ERROR | Ошибка при обработке задания 14: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:40:54 | ERROR | Ошибка при обработке задания 15: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:40:54 | ERROR | Ошибка при обработке задания 16: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:40:54 | ERROR | Ошибка при обработке задания 17: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:40:54 | ERROR | Ошибка при обработке задания 18: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:40:54 | ERROR | Ошибка при обработке задания 19: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:40:54 | ERROR | Ошибка при обработке задания 20: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:40:54 | ERROR | Ошибка при обработке задания 21: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:40:54 | ERROR | Ошибка при обработке задания 22: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:40:54 | ERROR | Ошибка при обработке задания 23: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:40:54 | ERROR | Ошибка при обработке задания 24: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:40:54 | INFO | Обработка домашних заданий завершена
+2025-10-02 at 13:41:48 | INFO | Страница загружена
+2025-10-02 at 13:41:48 | INFO | Данные для входа введены
+2025-10-02 at 13:41:48 | INFO | Кнопка входа нажата
+2025-10-02 at 13:41:53 | SUCCESS | Вход выполнен! Текущий URL: https://journal.top-academy.ru/ru/main/dashboard/page/index
+2025-10-02 at 13:41:54 | INFO | Страница с домашними заданиями загружена
+2025-10-02 at 13:41:54 | INFO | Найдено элементов с домашними заданиями: 24
+2025-10-02 at 13:41:54 | INFO | Найдена кнопка загрузки для: Разработка программных модулей
+2025-10-02 at 13:41:59 | INFO | Клик на кнопку загрузки для: Разработка программных модулей
+2025-10-02 at 13:42:02 | SUCCESS | Готово к загрузке файла для: Разработка программных модулей
+2025-10-02 at 13:42:02 | INFO | Найдена кнопка загрузки для: Разработка программных модулей
+2025-10-02 at 13:42:32 | ERROR | Ошибка при обработке задания 2: ElementHandle.hover: Timeout 30000ms exceeded.
+Call log:
+  - attempting hover action
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <span role="textbox" contenteditable="" class="textarea text-homework-field" data-placeholder="Здесь Вы можете написать ваш текстовый ответ"></span> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+    - waiting 20ms
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="content" _ngcontent-flc-c11="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 100ms
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="content" _ngcontent-flc-c11="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 500ms
+      - waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <span role="textbox" contenteditable="" class="textarea text-homework-field" data-placeholder="Здесь Вы можете написать ваш текстовый ответ"></span> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 500ms
+      - waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="content" _ngcontent-flc-c11="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 500ms
+      - waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="content" _ngcontent-flc-c11="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 500ms
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="content" _ngcontent-flc-c11="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting 500ms
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <span role="textbox" contenteditable="" class="textarea text-homework-field" data-placeholder="Здесь Вы можете написать ваш текстовый ответ"></span> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting 500ms
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="content" _ngcontent-flc-c11="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting 500ms
+
+2025-10-02 at 13:42:32 | INFO | Найдена кнопка загрузки для: Информационные технологии
+2025-10-02 at 13:43:02 | ERROR | Ошибка при обработке задания 3: ElementHandle.hover: Timeout 30000ms exceeded.
+Call log:
+  - attempting hover action
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="content" _ngcontent-flc-c11="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <span role="textbox" contenteditable="" class="textarea text-homework-field" data-placeholder="Здесь Вы можете написать ваш текстовый ответ"></span> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting 20ms
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="content" _ngcontent-flc-c11="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 100ms
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="content" _ngcontent-flc-c11="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 500ms
+      - waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <span role="textbox" contenteditable="" class="textarea text-homework-field" data-placeholder="Здесь Вы можете написать ваш текстовый ответ"></span> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 500ms
+      - waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="content" _ngcontent-flc-c11="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 500ms
+      - waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="content" _ngcontent-flc-c11="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+    - retrying hover action
+      - waiting 500ms
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="content" _ngcontent-flc-c11="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting 500ms
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <span role="textbox" contenteditable="" class="textarea text-homework-field" data-placeholder="Здесь Вы можете написать ваш текстовый ответ"></span> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting 500ms
+    - waiting for element to be visible and stable
+    - element is visible and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="content" _ngcontent-flc-c11="">…</div> from <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> subtree intercepts pointer events
+  - retrying hover action
+    - waiting 500ms
+
+2025-10-02 at 13:43:02 | INFO | Найдена кнопка загрузки для: Информационные технологии
+2025-10-02 at 13:43:32 | ERROR | Ошибка при обработке задания 4: ElementHandle.hover: Timeout 30000ms exceeded.
+Call log:
+  - attempting hover action
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> intercepts pointer events
+    - retrying hover action
+    - waiting 20ms
+    2 × waiting for element to be visible and stable
+      - element is visible and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> intercepts pointer events
+    - retrying hover action
+      - waiting 100ms
+    35 × waiting for element to be visible and stable
+       - element is visible and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <modal-container role="dialog" tabindex="-1" class="modal fade show">…</modal-container> intercepts pointer events
+     - retrying hover action
+       - waiting 500ms
+
+2025-10-02 at 13:43:32 | INFO | Найдена кнопка загрузки для: Архитектура аппаратных средств
+2025-10-02 at 13:45:36 | INFO | Страница загружена
+2025-10-02 at 13:45:37 | INFO | Данные для входа введены
+2025-10-02 at 13:45:37 | INFO | Кнопка входа нажата
+2025-10-02 at 13:45:42 | SUCCESS | Вход выполнен! Текущий URL: https://journal.top-academy.ru/ru/main/dashboard/page/index
+2025-10-02 at 13:45:43 | INFO | Страница с домашними заданиями загружена
+2025-10-02 at 13:45:43 | INFO | Найдено элементов с домашними заданиями: 24
+2025-10-02 at 13:45:43 | INFO | Найдена кнопка загрузки для: Разработка программных модулей
+2025-10-02 at 13:45:44 | INFO | Клик на кнопку загрузки для: Разработка программных модулей
+2025-10-02 at 13:45:44 | INFO | Модальное окно загрузки появилось
+2025-10-02 at 13:45:44 | INFO | Клик на область загрузки файла выполнен
+2025-10-02 at 13:45:44 | ERROR | Файл C:\Users\Student16\Downloads\огузок\auto-dz-1\pic.jpg не найден. Убедитесь, что pic.jpg находится в той же папке, что и скрипт.
+2025-10-02 at 13:45:45 | INFO | Найдена кнопка загрузки для: Разработка программных модулей
+2025-10-02 at 13:49:14 | INFO | Страница загружена
+2025-10-02 at 13:49:14 | INFO | Данные для входа введены
+2025-10-02 at 13:49:14 | INFO | Кнопка входа нажата
+2025-10-02 at 13:49:19 | SUCCESS | Вход выполнен! Текущий URL: https://journal.top-academy.ru/ru/main/dashboard/page/index
+2025-10-02 at 13:49:21 | INFO | Страница с домашними заданиями загружена
+2025-10-02 at 13:49:21 | INFO | Найдено элементов с домашними заданиями: 24
+2025-10-02 at 13:49:21 | INFO | Найдена кнопка загрузки для: Разработка программных модулей
+2025-10-02 at 13:49:51 | ERROR | Ошибка при обработке задания 1: ElementHandle.click: Timeout 30000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    57 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+2025-10-02 at 13:49:51 | INFO | Найдена кнопка загрузки для: Разработка программных модулей
+2025-10-02 at 13:50:21 | ERROR | Ошибка при обработке задания 2: ElementHandle.click: Timeout 30000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    57 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+2025-10-02 at 13:50:21 | INFO | Найдена кнопка загрузки для: Информационные технологии
+2025-10-02 at 13:50:51 | ERROR | Ошибка при обработке задания 3: ElementHandle.click: Timeout 30000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    57 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+2025-10-02 at 13:50:51 | INFO | Найдена кнопка загрузки для: Информационные технологии
+2025-10-02 at 13:51:21 | ERROR | Ошибка при обработке задания 4: ElementHandle.click: Timeout 30000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    57 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+2025-10-02 at 13:51:21 | INFO | Найдена кнопка загрузки для: Архитектура аппаратных средств
+2025-10-02 at 13:51:51 | ERROR | Ошибка при обработке задания 5: ElementHandle.click: Timeout 30000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    57 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+2025-10-02 at 13:51:51 | INFO | Найдена кнопка загрузки для: Компьютерные сети
+2025-10-02 at 13:52:21 | ERROR | Ошибка при обработке задания 6: ElementHandle.click: Timeout 30000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    57 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+2025-10-02 at 13:52:21 | INFO | Найдена кнопка загрузки для: Информационные технологии
+2025-10-02 at 13:52:24 | ERROR | Ошибка при обработке задания 19: ElementHandle.click: Target page, context or browser has been closed
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    6 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 500ms
+
+2025-10-02 at 13:52:24 | ERROR | Ошибка при обработке задания 20: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:52:24 | ERROR | Ошибка при обработке задания 21: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:52:24 | ERROR | Ошибка при обработке задания 22: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:52:24 | ERROR | Ошибка при обработке задания 23: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:52:24 | ERROR | Ошибка при обработке задания 24: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 13:52:24 | INFO | Обработка домашних заданий завершена
+2025-10-02 at 14:00:53 | INFO | Страница загружена
+2025-10-02 at 14:00:53 | INFO | Данные для входа введены
+2025-10-02 at 14:00:54 | INFO | Кнопка входа нажата
+2025-10-02 at 14:00:59 | SUCCESS | Вход выполнен! Текущий URL: https://journal.top-academy.ru/ru/main/dashboard/page/index
+2025-10-02 at 14:01:00 | INFO | Страница с домашними заданиями загружена
+2025-10-02 at 14:01:00 | INFO | Найдено элементов с домашними заданиями: 24
+2025-10-02 at 14:01:00 | INFO | Найдена кнопка загрузки для: Разработка программных модулей
+2025-10-02 at 14:01:01 | INFO | Клик на кнопку загрузки для: Разработка программных модулей
+2025-10-02 at 14:01:01 | INFO | Модальное окно загрузки появилось
+2025-10-02 at 14:01:01 | INFO | Клик на область загрузки файла выполнен
+2025-10-02 at 14:01:01 | ERROR | Файл C:\Users\Student16\Downloads\огузок\auto-dz-1\pic.jpg не найден. Убедитесь, что pic.jpg находится в той же папке, что и скрипт.
+2025-10-02 at 14:01:01 | INFO | Найдена кнопка загрузки для: Разработка программных модулей
+2025-10-02 at 14:01:10 | INFO | Клик на кнопку загрузки для: Разработка программных модулей
+2025-10-02 at 14:01:10 | INFO | Модальное окно загрузки появилось
+2025-10-02 at 14:01:11 | ERROR | Ошибка при обработке задания 2: ElementHandle.click: Target page, context or browser has been closed
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not stable
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not stable
+    - retrying click action
+      - waiting 100ms
+    - waiting for element to be visible, enabled and stable
+    - element is not stable
+  - retrying click action
+    - waiting 500ms
+
+2025-10-02 at 14:01:11 | ERROR | Ошибка при обработке задания 3: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 14:01:11 | ERROR | Ошибка при обработке задания 4: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 14:01:11 | ERROR | Ошибка при обработке задания 5: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 14:01:11 | ERROR | Ошибка при обработке задания 6: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 14:01:11 | ERROR | Ошибка при обработке задания 7: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 14:01:11 | ERROR | Ошибка при обработке задания 8: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 14:01:11 | ERROR | Ошибка при обработке задания 9: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 14:01:11 | ERROR | Ошибка при обработке задания 10: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 14:01:11 | ERROR | Ошибка при обработке задания 11: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 14:01:11 | ERROR | Ошибка при обработке задания 12: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 14:01:11 | ERROR | Ошибка при обработке задания 13: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 14:01:11 | ERROR | Ошибка при обработке задания 14: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 14:01:11 | ERROR | Ошибка при обработке задания 15: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 14:01:11 | ERROR | Ошибка при обработке задания 16: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 14:01:11 | ERROR | Ошибка при обработке задания 17: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 14:01:11 | ERROR | Ошибка при обработке задания 18: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 14:01:11 | ERROR | Ошибка при обработке задания 19: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 14:01:11 | ERROR | Ошибка при обработке задания 20: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 14:01:11 | ERROR | Ошибка при обработке задания 21: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 14:01:11 | ERROR | Ошибка при обработке задания 22: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 14:01:11 | ERROR | Ошибка при обработке задания 23: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 14:01:11 | ERROR | Ошибка при обработке задания 24: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-10-02 at 14:01:11 | INFO | Обработка домашних заданий завершена
